@@ -1,0 +1,24 @@
+MEAdvSDK:
+  LABEL: MEAdvSDK
+  PROJECT_PATH: MEAdvSDK.xcodeproj
+  UUID: 2B1A12BF7022690FC3855E7A43566AAC
+MEFacebookAdapter:
+  LABEL: MEFacebookAdapter
+  PROJECT_PATH: MEFacebookAdapter.xcodeproj
+  UUID: 0928B67C3AA40B2D0C11E451263698BD
+Pods-MEFacebookAdapter_Example:
+  LABEL: Pods-MEFacebookAdapter_Example
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: 24D8891ADF88C4C8A2A0799AB55DFDD0
+Pods-MEFacebookAdapter_Tests:
+  LABEL: Pods-MEFacebookAdapter_Tests
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: 35769344C4520D9384DD9F38A9464F15
+Reachability:
+  LABEL: Reachability
+  PROJECT_PATH: Reachability.xcodeproj
+  UUID: DA1EBD7850A215E94DBD19A247725F9F
+Realm:
+  LABEL: Realm
+  PROJECT_PATH: Realm.xcodeproj
+  UUID: BC4AC9FBD7453D9D72102559C8F6B8AC

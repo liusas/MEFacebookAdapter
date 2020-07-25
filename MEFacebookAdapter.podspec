@@ -17,18 +17,17 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = "This is a Mobiexchanger's advertise adapter, and we use it as a module"
 
-  s.homepage         = 'https://github.com/Liusas/MEFacebookAdapter'
+  s.homepage         = 'https://github.com/liusas/MEFacebookAdapter.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Liusas' => 'liufeng@mobiexchanger.com' }
-  s.source           = { :git => 'https://github.com/Liusas/MEFacebookAdapter.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liusas/MEFacebookAdapter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.vendored_frameworks = ['MEFacebookAdapter/Classes/Framework/*']
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'MEFacebookAdapter/Classes/**/*'
   
@@ -39,4 +38,6 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  
+  s.dependency "MEAdvSDK", '0.1.5'
 end

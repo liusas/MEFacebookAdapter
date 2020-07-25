@@ -1,0 +1,33 @@
+PODS:
+  - MEAdvSDK (0.1.5):
+    - Reachability
+    - Realm (= 4.4.1)
+  - MEFacebookAdapter (0.1.0):
+    - MEAdvSDK (= 0.1.5)
+  - Reachability (3.2)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+
+DEPENDENCIES:
+  - MEFacebookAdapter (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MEAdvSDK
+    - Reachability
+    - Realm
+
+EXTERNAL SOURCES:
+  MEFacebookAdapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MEAdvSDK: b8d6410268764e30f3c89fae0179948add760b71
+  MEFacebookAdapter: 8eb7d569bc0034d06963a8355939351d4c811c8c
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+
+PODFILE CHECKSUM: 13f5417a4fa5851beebcbfdca3c27150c3dfd096
+
+COCOAPODS: 1.9.3

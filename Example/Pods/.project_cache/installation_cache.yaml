@@ -1,0 +1,135 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  MEAdvSDK:
+    BUILD_SETTINGS_CHECKSUM:
+      MEAdvSDK:
+        :debug: 8747ad686f58fa12abc9af4b0fa8ffe3
+        :release: 8747ad686f58fa12abc9af4b0fa8ffe3
+    CHECKSUM: b8d6410268764e30f3c89fae0179948add760b71
+    PROJECT_NAME: MEAdvSDK
+    SPECS:
+      - MEAdvSDK (0.1.5)
+  MEFacebookAdapter:
+    BUILD_SETTINGS_CHECKSUM:
+      MEFacebookAdapter:
+        :debug: b67d2d065972232df91b06691541eaa5
+        :release: b67d2d065972232df91b06691541eaa5
+    CHECKSUM: 8eb7d569bc0034d06963a8355939351d4c811c8c
+    FILES:
+      - "../../LICENSE"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/FBAudienceNetwork"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdBridgeCommon.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdBridgeContainer.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdChoicesView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdDefines.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdExperienceConfig.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdExtraHint.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdIconView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdImage.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdOptionsView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdSettings.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdSettingsBridge.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdSize.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdUtilityBridge.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAdViewBridge.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAudienceNetwork.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBAudienceNetworkAds.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBInstreamAdView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBInterstitialAd.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBInterstitialAdBridge.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBMediaView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBMediaViewVideoRenderer.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAd.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdBase.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdBaseView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdCollectionViewAdProvider.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdCollectionViewCellProvider.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdScrollView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdsManager.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdTableViewAdProvider.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdTableViewCellProvider.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeAdViewAttributes.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeBannerAd.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBNativeBannerAdView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBRewardedVideoAd.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/FBRewardedVideoAdBridge.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Headers/UIView+FBNativeAdViewTag.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Info.plist"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/Modules/module.modulemap"
+      - "../../MEFacebookAdapter/Classes/Framework/FBAudienceNetwork.framework/PkgInfo"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/FBSDKCoreKit"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLink.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkNavigation.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolving.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkReturnToRefererController.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkReturnToRefererView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkTarget.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKMeasurementEvent.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKURL.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Headers/FBSDKWebViewAppLinkResolver.h"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Info.plist"
+      - "../../MEFacebookAdapter/Classes/Framework/FBSDKCoreKit.framework/Modules/module.modulemap"
+      - "../../MEFacebookAdapter/Classes/MEFBAdapter.h"
+      - "../../MEFacebookAdapter/Classes/MEFBAdapter.m"
+      - "../../README.md"
+    PROJECT_NAME: MEFacebookAdapter
+    SPECS:
+      - MEFacebookAdapter (0.1.0)
+  Pods-MEFacebookAdapter_Example:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 713dc2983f5bba1799bff78061ef04cb
+      Release: 713dc2983f5bba1799bff78061ef04cb
+    FILES:
+      - "${PODS_ROOT}/MEAdvSDK/MEAdvSDK/Assets/Resource/MEAdvBundle.bundle"
+  Pods-MEFacebookAdapter_Tests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 0bdc11ba1919b97b98fe8904f0057c9c
+      Release: 0bdc11ba1919b97b98fe8904f0057c9c
+  Reachability:
+    BUILD_SETTINGS_CHECKSUM:
+      Reachability:
+        :debug: 6fb325cbaedfe731700153966683b754
+        :release: 6fb325cbaedfe731700153966683b754
+    CHECKSUM: 33e18b67625424e47b6cde6d202dce689ad7af96
+    PROJECT_NAME: Reachability
+    SPECS:
+      - Reachability (3.2)
+  Realm:
+    BUILD_SETTINGS_CHECKSUM:
+      Realm:
+        :debug: ced923823a7c6868fd8d917664a2abaa
+        :release: ced923823a7c6868fd8d917664a2abaa
+    CHECKSUM: 4eb04d7487bd43c0581256f40b424eafb711deff
+    PROJECT_NAME: Realm
+    SPECS:
+      - Realm (4.4.1)
+      - Realm/Headers (4.4.1)
+OBJECT_VERSION: 46
+PLUGINS:
+  cocoapods-stats:
+    {}
